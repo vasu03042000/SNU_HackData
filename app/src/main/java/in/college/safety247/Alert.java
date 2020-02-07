@@ -28,10 +28,6 @@ import com.andexert.library.RippleView;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by Charmy Garg on 18-Sep-16.
- */
-
 public class Alert extends android.support.v4.app.Fragment {
 
     View rootView;

@@ -1,5 +1,4 @@
 package in.college.safety247;
-
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
@@ -7,10 +6,6 @@ import android.widget.EditText;
 import android.widget.Toast;
 
 import com.andexert.library.RippleView;
-
-/**
- * Created by Charmy Garg on 18-Sep-16.
- */
 public class SignUp extends AppCompatActivity {
 
     LoginDataBaseAdapter loginDataBaseAdapter;
