@@ -21,7 +21,7 @@ public class SplashActivity extends AppCompatActivity {
             @Override
             public void run() {
                 try {
-                    Thread.sleep(2000);
+                    Thread.sleep(4000);
                 } catch (InterruptedException e) {
                 }
                 Intent intent = new Intent(SplashActivity.this, MainActivity.class);
