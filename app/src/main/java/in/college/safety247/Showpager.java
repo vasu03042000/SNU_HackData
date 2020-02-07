@@ -7,9 +7,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.Menu;
 import android.view.MenuItem;
 
-/**
- * Created by Charmy Garg on 18-Sep-16.
- */
+
 
 public class Showpager extends AppCompatActivity {
 

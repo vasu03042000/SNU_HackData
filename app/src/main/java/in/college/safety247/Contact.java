@@ -1,8 +1,6 @@
 package in.college.safety247;
 
-/**
- * Created by Charmy Garg on 18-Sep-16.
- */
+
 public class Contact {
 
     String fname, lname, email, user, pass, phone, cpass;

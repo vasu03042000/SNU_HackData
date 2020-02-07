@@ -48,9 +48,7 @@ import Modules.DirectionFinder;
 import Modules.DirectionFinderListener;
 import Modules.Route;
 
-/**
- * Created by Charmy Garg on 18-Sep-16.
- */
+
 public class Locations extends android.support.v4.app.Fragment implements OnMapReadyCallback, DirectionFinderListener{
 
     private GoogleMap mMap;

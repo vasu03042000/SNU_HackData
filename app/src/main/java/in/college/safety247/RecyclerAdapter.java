@@ -18,9 +18,7 @@ import com.github.brnunes.swipeablerecyclerview.SwipeableRecyclerViewTouchListen
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by Charmy Garg on 09-Oct-16.
- */
+
 public class RecyclerAdapter extends AppCompatActivity {
 
     private List<DatabaseModel> dbList;

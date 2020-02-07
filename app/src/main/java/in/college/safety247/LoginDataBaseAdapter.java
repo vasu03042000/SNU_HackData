@@ -6,9 +6,6 @@ import android.database.Cursor;
 import android.database.SQLException;
 import android.database.sqlite.SQLiteDatabase;
 
-/**
- * Created by Charmy Garg on 18-Sep-16.
- */
 public class LoginDataBaseAdapter
 {
     static final int DATABASE_VERSION = 107;

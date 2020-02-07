@@ -1,8 +1,5 @@
 package in.college.safety247;
 
-/**
- * Created by Charmy Garg on 22-Oct-16.
- */
 public class Number {
 
     private String number;
