@@ -1,7 +1,7 @@
 package Modules;
 
 /**
- * Created by Charmy Garg on 02-Oct-16.
+ *Created by Guru-101
  */
 public class Distance {
     public String text;

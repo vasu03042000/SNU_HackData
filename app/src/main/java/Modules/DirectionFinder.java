@@ -20,7 +20,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by Charmy Garg on 02-Oct-16.
+ * Created by Guru-101
  */
 public class DirectionFinder {
     private static final String DIRECTION_URL_API = "https://maps.googleapis.com/maps/api/directions/json?";
