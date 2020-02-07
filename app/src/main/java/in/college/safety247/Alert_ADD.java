@@ -16,9 +16,6 @@ import com.andexert.library.RippleView;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by Charmy Garg on 23-Sep-16.
- */
 public class Alert_ADD extends AppCompatActivity {
 
     static final int PICK_CONTACT= 1;
